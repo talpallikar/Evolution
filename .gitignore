@@ -1,3 +1,14 @@
+# Session based directories
+records
+reports
+
+# Temporary Files
+test1.py
+version4.py
+
+# Secrets
+keys.ini
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

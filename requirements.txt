@@ -1,0 +1,7 @@
+configparser==3.5.0
+numpy==1.11.2
+plotly==1.12.9
+pytz==2016.7
+requests==2.11.1
+six==1.10.0
+SQLAlchemy==1.1.2
